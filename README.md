@@ -30,7 +30,7 @@ Esta aplicação consiste em dois clientes de chat: usuario e atendente e cada c
         * `python.exe -m pip install --upgrade pip`
         * `pip install flask python-dotenv`
 
-        Agora você pode executar a aplicação:
+           Agora você pode executar a aplicação:
         * `flask run`
 
 ## Quando usar nas próximas vezes, digite:
