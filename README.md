@@ -93,3 +93,6 @@ ___
 2. Cada mensagem do usuário que termina com '?' é utilizada como prompt para gerar uma resposta do modelo "gemini-2.0-flash" via API do Gemini.
 
 3. A resposta é inserida no log do chat com a indicação [GEMINI]
+
+4. Para gerar sua chave para consumo da API do Gemini: ​https://aistudio.google.com/apikey
+
